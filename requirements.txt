@@ -15,10 +15,5 @@ google-crc32c
 google-generativeai
 google-resumable-media
 googleapis-common-protos
-langchain-cohere
-langchain-community
-langchain-core
 langchain-google-genai
-langchain-openai
-langchain-text-splitters
 streamlit
