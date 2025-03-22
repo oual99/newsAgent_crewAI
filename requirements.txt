@@ -197,7 +197,6 @@ python-dateutil==2.9.0.post0
 python-dotenv==1.0.1
 pytube==15.0.0
 pytz==2025.1
-pyvis==0.3.2
 pywin32==310
 PyYAML==6.0.1
 pyzmq==26.3.0
