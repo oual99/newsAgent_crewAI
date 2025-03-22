@@ -17,3 +17,4 @@ google-resumable-media
 googleapis-common-protos
 langchain-google-genai
 streamlit
+pysqlite3-binary
