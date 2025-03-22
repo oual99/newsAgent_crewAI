@@ -18,3 +18,4 @@ googleapis-common-protos
 langchain-google-genai
 streamlit
 pysqlite3-binary
+nest-asyncio
