@@ -15,7 +15,6 @@ google-crc32c
 google-generativeai
 google-resumable-media
 googleapis-common-protos
-langchain
 langchain-cohere
 langchain-community
 langchain-core
